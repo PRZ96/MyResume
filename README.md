@@ -1,4 +1,4 @@
-# Pablo Pérez - Front-end Developer
+# Pablo Pérez - Front End Developer
 
 [Download PDF](https://github.com/prz96/MyResume/raw/main/myresume.pdf) | [View as HTML](https://prz96.github.io/MyResume) | [pablo.ceti.96@hotmail.com](mailto:pablo.ceti.96@hotmail.com) | [Linkedin Profile](https://www.linkedin.com/in/pabloprz/)
 
