@@ -106,7 +106,7 @@ I'm a front end Developer interested in web applications based on the architectu
 
 #### Centro de Enseñanza Técnica Industrial (Aug 2012 – Jul 2016)
 
-* Focused on software development
+* Focused on software development.
 * Relevant coursework includes programming languages, algorithms and data structures, software engineering, and database management.
 
 
