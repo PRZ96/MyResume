@@ -14,9 +14,11 @@ I'm a front end Developer interested in web applications based on the architectu
 * HTML
 * CSS/SCSS
 * JavaScript
+* Gulp
 * Bootstrap
 * Laravel
 * Responsive Design
+* App Deployment
 
 ### Graphic Design
 
