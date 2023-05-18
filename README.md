@@ -52,7 +52,7 @@ I'm a front end Developer interested in web applications based on the architectu
 
 ### HallMG - Zapopan, Jalisco
 
-#### Front End Developer (Jul 2022 - Current)
+#### Front End Developer (Jul 2022 - Present)
 
 * Developed user interfaces using Bootstrap, CSS, SCSS, and Laravel.
 * Collaborated with the design team to create intuitive and visually appealing user experiences.
