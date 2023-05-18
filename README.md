@@ -52,16 +52,11 @@ I'm a front end Developer interested in web applications based on the architectu
 
 ### HallMG - Zapopan, Jalisco
 
-#### Front End Developer (Nov 2022 - Current)
+#### Front End Developer (Jul 2022 - Current)
 
 * Developed user interfaces using Bootstrap, CSS, SCSS, and Laravel.
 * Collaborated with the design team to create intuitive and visually appealing user experiences.
 * Implemented responsive design techniques to ensure optimal performance across devices.
-
-#### Application Support Engineer and Developer (Jul 2022 – Nov 2022)
-
-* Provided technical support to customers by email, and chat.
-* Met with clients to show progress and solutions to their requests.
 * Diagnosed and resolved technical issues related to software and hosting.
 * Developed and maintained software applications to improve customer experience and efficiency.
 * Suggest changes to improve UX/UI and stability.
@@ -104,6 +99,13 @@ I'm a front end Developer interested in web applications based on the architectu
 * Relevant coursework includes mechanical design, electronics, control systems, programming, and robotics.
 
 
+### Graphic Design Diploma
+
+#### CAAV Universidad de Medios Audiovisuales (Jan 2018 – Jun 2018)
+
+* Relevant coursework includes graphic design fundamentals, typography and layout, digital imaging, branding and identity design.
+
+
 ### Informatics and Computing Technologist
 
 #### Centro de Enseñanza Técnica Industrial (Aug 2012 – Jul 2016)
@@ -115,12 +117,17 @@ I'm a front end Developer interested in web applications based on the architectu
 
 ## Professional Development
 
+### Bootstrap 5 y SASS - La guía práctica
+
+#### Udemy (May 2023)
+
+* Credential ID UC-22816b98-1470-432b-9337-58ce7e646568
 
 ### GIT+GitHub: Todo un sistema de control de versiones de cero
 
 #### Udemy (Nov 2022)
 
-* Credential ID UC-e5edb7f4-61da-4df6-b523-a3120673d6c9.jpg?v=1667335581000
+* Credential ID UC-e5edb7f4-61da-4df6-b523-a3120673d6c9
 
 
 ### AI-900T00: Microsoft Azure AI Fundamentals
