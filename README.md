@@ -15,7 +15,7 @@ technologies and domains to broaden my skills and knowledge.
 ### Web Development
 
 - HTML
-- CSS/SCSS
+- CSS/SASS
 - JavaScript
 - Bootstrap
 - Gulp
