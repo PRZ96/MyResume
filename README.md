@@ -116,6 +116,12 @@ technologies and domains to broaden my skills and knowledge.
 
 ## Professional Development
 
+### Desarrollo Web
+
+#### Coderhouse (Oct 2023)
+
+- Credential ID 654692ea7cdb9b44a88cc24b
+
 ### Bootstrap 5 y SASS - La guía práctica
 
 #### Udemy (May 2023)
