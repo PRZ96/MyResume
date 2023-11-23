@@ -17,12 +17,13 @@ technologies and domains to broaden my skills and knowledge.
 - HTML
 - CSS/SASS
 - JavaScript
-- Bootstrap
-- Gulp
+- React
 - Vue.js
+- Bootstrap
+- Tailwind
+- Gulp
 - Laravel
 - Figma
-- App Deployment
 
 ### Graphic Design
 
