@@ -117,6 +117,12 @@ technologies and domains to broaden my skills and knowledge.
 
 ## Professional Development
 
+### Javascript
+
+#### Coderhouse (Jan 2024)
+
+- Credential ID 65c9899e1500763f93b4f12b
+
 ### Desarrollo Web
 
 #### Coderhouse (Oct 2023)
